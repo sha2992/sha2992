@@ -1,4 +1,6 @@
-## Data Science || Data Analysis || Machine Learning || NLP || Artificial Intelligence Enthusiast
+<h3 align="center"> Data Science || Data Analysis || Machine Learning || NLP || Artificial Intelligence Enthusiast</h3>
+
+<h2>🙋‍♂️ About Me</h2>
 - 👋 Hi, I’m Shakil Ahmed @sha2992
 - 👀 I’m interested in **Data Science**, **Machine Learning**, **Big Data**
 - 🌱 I’m currently learning **Machhine Learning** || **NLP**   
