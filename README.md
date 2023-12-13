@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shakil Ahmed Pias</h1>
 <h3 align="center">A passionate Data Enthusiast from Bangladesh</h3>
-<!---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha2992&label=Profile%20views&color=0e75b6&style=flat" alt="sha2992" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sha2992" alt="sha2992" /></a> </p>
---->
-- 🔭 I’m currently working on **Statistical Research of Bangladesh Job Market**
 
+- 🔭 I’m currently working on **Statistical Research of Bangladesh Job Market**
+  
+- 💻 I'm proficient in **Python**,**SQL**. I'm always eager to learn and explore new technologies. Whether it's data analysis, data visulization or deep into the world of machine learning, I love the challenge of turning ideas into reality through code.
+  
 - 🌱 I’m currently learning **Deep Learning, NLP**
 
 - 👨‍💻 All of my projects are available at [https://sha2992.github.io/shakil.github.io/](https://sha2992.github.io/shakil.github.io/)
@@ -15,6 +17,8 @@
 
 - 📫 How to reach me **ahshakil29@gmail.com**
 
+- 🚀 Outside the realms of coding, you can find me reading books, or explore the nature.
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shakil-ahmed2992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakil-ahmed2992" height="30" width="40" /></a>
