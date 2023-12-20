@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha2992&label=Profile%20views&color=0e75b6&style=flat" alt="sha2992" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sha2992" alt="sha2992" /></a> </p>
-
-- 🔭 I’m currently doing research on **Bangladesh Job Market**
   
 - 💻 I'm proficient in **Python**,**SQL**. I'm always eager to learn and explore new technologies. Whether it's data analysis, data visulization or deep into the world of machine learning, I love the challenge of turning ideas into reality through code.
   
