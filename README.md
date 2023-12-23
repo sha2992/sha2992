@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ahshakil29@gmail.com**
 
-- 🚀 Outside the realms of coding, you can find me reading books, or explore the nature.
+- 🚀 Outside the realms of coding, you can find me reading books, or exploring nature.
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
