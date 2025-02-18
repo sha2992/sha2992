@@ -7,7 +7,7 @@
   
 - 💻 I'm proficient in **Python**,**SQL**. I'm always eager to learn and explore new technologies. Whether it's data analysis, data visulization or deep into the world of machine learning, I love the challenge of turning ideas into reality through code.
   
-- 🌱 I’m currently learning **Deep Learning, NLP**
+- 🌱 I’m currently learning **Deep Learning, LLM, Federated Learning**
 
 - 👨‍💻 All of my projects are available at [https://sha2992.github.io/shakil.github.io/](https://sha2992.github.io/shakil.github.io/)
 
